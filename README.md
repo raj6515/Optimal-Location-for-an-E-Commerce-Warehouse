@@ -95,7 +95,7 @@ python main.py --csv-file path/to/data.csv --place "City, Country" --radius 3000
 
 ## Example Results
 
-![Optimization Result](./assets/result_visualization.png)
+![Optimization Result](points.png)
 
 *Visualization of customer delivery locations (blue circles, scaled by frequency) and the optimal warehouse location (red star).*
 
