@@ -48,6 +48,10 @@ cd optimal-warehouse-location
 
 ## Usage
 
+### Dataset
+
+This project uses the [E-commerce User Data for Optimisation](https://www.kaggle.com/datasets/alpha000x/ecommerce-user-data-for-optimisation) dataset from Kaggle, which contains delivery location data for optimization purposes.
+
 ### Input Format
 
 The application expects a CSV file with the following structure:
