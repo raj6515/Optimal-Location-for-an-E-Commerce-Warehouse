@@ -71,9 +71,6 @@ Where:
 ```python
 # Basic usage
 python main.py
-
-# With custom parameters
-python main.py --csv-file path/to/data.csv --place "City, Country" --radius 3000
 ```
 
 ## How It Works
@@ -97,7 +94,7 @@ python main.py --csv-file path/to/data.csv --place "City, Country" --radius 3000
 
 ![Optimization Result](points.png)
 
-*Visualization of customer delivery locations (blue circles, scaled by frequency) and the optimal warehouse location (red star).*
+*Visualization of customer delivery locations (blue circle).*
 
 ## Performance
 
